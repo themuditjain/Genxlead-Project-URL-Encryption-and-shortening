@@ -13,4 +13,13 @@ To run the project:
 You just need to download all the files given here and after then just need to download all the required libraries has been used in the project.
 Run the form.py file it will run the code and will generate the local host link to access the web page.
 
+Commands to run download the library:
+
+Run these commands in terminal
+
+pip install flask
+pip install hashlib
+pip install pyshorteners
+
+
 Thank You
